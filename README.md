@@ -1,3 +1,18 @@
+Task: https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/basic-testing/assignment.md
+Deadline 13.05.2025 02:00
+Score: 258/258
+
+- [x] - 01-simple-tests - 42/42
+- [x] - 02-table-tests - 42/42
+- [x] - 03-error-handling-async - 30/30
+- [x] - 04-test-class - 60/60
+- [x] - 05-partial-mocking - 12/12
+- [x] - 06-mocking-node-api - 42/42
+- [x] - 07-mocking-lib-api - 18/18
+- [x] - 08-snapshot-testing - 12/12
+
+---
+
 # Basic testing
 
 ⚠️ DO NOT SUBMIT PULL REQUESTS TO THIS REPO ⚠️
